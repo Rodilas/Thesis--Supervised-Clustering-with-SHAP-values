@@ -1,0 +1,42 @@
+Identifying meaningful clusters in malware data
+
+https://arxiv.org/pdf/2008.01175.pdf
+
+
+
+Cluster Analysis of Malware Family Relationships
+
+https://arxiv.org/pdf/2103.05761.pdf
+
+
+Detection of Malicious Android Applications:
+Classical Machine Learning vs. Deep Neural
+Network Integrated with Clustering
+
+https://arxiv.org/pdf/2103.00637.pdf
+
+
+
+Performance Analysis of Unsupervised Machine Learning Methods for Mobile Malware Detection
+
+https://ieeexplore.ieee.org/document/9763180
+
+
+
+
+
+Detecting Malware Families and Subfamilies using
+Machine Learning Algorithms: An Empirical Study
+
+https://thesai.org/Downloads/Volume13No2/Paper_88-Detecting_Malware_Families_and_Subfamilies_using_Machine_Learning_Algorithms.pdf
+
+
+Performance Evaluation of Features and Clustering Algorithms for Malware
+
+https://ieeexplore.ieee.org/document/8637452
+
+
+A Comparison of Clustering Techniques for Malware Analysis 
+
+https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1404&context=etd_projects
+

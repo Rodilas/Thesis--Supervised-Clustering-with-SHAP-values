@@ -1,0 +1,78 @@
+Shap values
+
+https://www.scopus.com/record/display.uri?eid=2-s2.0-85125798952&origin=resultslist&sort=r-f&src=s&st1=cybersecurity+classification&nlo=&nlr=&nls=&sid=9178fef43f9047fe63e9da7f5f54913b&sot=b&sdt=cl&cluster=scopubstage%2c%22final%22%2ct&sl=62&s=TITLE-ABS-KEY%28cybersecurity+classification%29+AND+PUBYEAR+%3e+2019&relpos=28&citeCnt=0&searchTerm=
+
+Malware Detection Using Pseudo Semi-Supervised Learning
+
+https://link.springer.com/chapter/10.1007/978-3-031-09282-4_31
+
+SVM - DDos attacks 
+https://www.sciencedirect.com/science/article/pii/S1389128622002559?via%3Dihub#bib0020
+
+
+Anomaly Detection for Industrial Internet of Things Cyberattacks
+
+https://www.scopus.com/record/display.uri?eid=2-s2.0-85136047067&origin=resultslist&sort=plf-f&src=s&st1=cybersecurity+classification&nlo=&nlr=&nls=&sid=81dc82c3f42e2144fb2bf66c3260a70d&sot=b&sdt=b&sl=43&s=TITLE-ABS-KEY%28cybersecurity+classification%29&relpos=5&citeCnt=0&searchTerm=
+
+
+Performance Analysis of Unsupervised Machine Learning Methods for Mobile Malware Detection
+
+https://ieeexplore.ieee.org/document/9763180
+
+
+Malware family classification
+
+https://www.sciencedirect.com/science/article/pii/S0957417421004127?via%3Dihub
+
+
+Android malware detection methods based on the combination of clustering and classification
+
+https://www.scopus.com/record/display.uri?eid=2-s2.0-85059034391&origin=resultslist&sort=plf-f&src=s&st1=clustering+malware+families&nlo=&nlr=&nls=&sid=b336d35d101e401955a1243982e6af90&sot=b&sdt=b&sl=42&s=TITLE-ABS-KEY%28clustering+malware+families%29&relpos=78&citeCnt=3&searchTerm=
+
+
+A Comparison of Clustering Techniques for Malware Analysis 
+
+https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1404&context=etd_projects
+
+https://sites.cs.ucsb.edu/~chris/research/doc/ndss09_cluster.pdf
+
+
+Cluster Analysis of Malware Family Relationships
+
+https://arxiv.org/pdf/2103.05761.pdf
+
+
+Comparative analysis of feature representations and machine learning methods in Android family classification
+
+https://www.scopus.com/record/display.uri?eid=2-s2.0-85101540924&origin=resultslist&sort=plf-f&src=s&st1=malware+clustering+deep+learning&nlo=&nlr=&nls=&sid=47c4678b8db6a672676bd9e8a35aa575&sot=b&sdt=b&sl=47&s=TITLE-ABS-KEY%28malware+clustering+deep+learning%29&relpos=41&citeCnt=8&searchTerm=
+
+
+
+
+
+
+-----------------------------------------
+K-Means Clustering Algorithm Analysis on Specific Economic Development Problems in Target Countries
+
+https://ieeexplore.ieee.org/document/9787057
+
+Clustering and mapping the first COVID-19 outbreak in France
+
+https://www.scopus.com/record/display.uri?eid=2-s2.0-85133222497&origin=resultslist&sort=plf-f&src=s&st1=clustering+country&nlo=&nlr=&nls=&sid=245d71f88e2d05f76118b0b4c4f85214&sot=b&sdt=b&sl=33&s=TITLE-ABS-KEY%28clustering+country%29&relpos=21&citeCnt=0&searchTerm=
+
+
+Indicators of economic crises: a
+data-driven clustering approach
+
+https://link.springer.com/content/pdf/10.1007/s41109-020-00280-4.pdf
+
+
+--------------------------------------------------------------------------------
+Classification with segmentation for credit scoring and bankruptcy prediction
+
+
+https://link.springer.com/article/10.1007/s00181-020-01901-8#Sec7
+
+
+
+a
